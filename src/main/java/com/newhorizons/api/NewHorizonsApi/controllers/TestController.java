@@ -18,6 +18,6 @@ public class TestController {
     })
     @GetMapping
     public String getAll(){
-        return "Hello";
+        return "Hello World";
     }
 }
